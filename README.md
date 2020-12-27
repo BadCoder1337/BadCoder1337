@@ -1,6 +1,6 @@
 ### Hello 👋 I'm BadCoder1337 (a.k.a FaZebook)
 ###### *Integration Enthusiast*
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BadCoder1337" alt="BadCoder1337" /> </p>
 <!-- ![Menhera-chan Hello](https://i.pinimg.com/originals/03/1d/1c/031d1c30843683ff843a9fd52b5b5796.png) -->
 
 ## Techstack 🛠
