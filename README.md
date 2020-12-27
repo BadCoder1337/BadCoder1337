@@ -18,8 +18,10 @@
 - 🧠 I can use other C-like languages, but i have not enough experience with their toolset
 
 ## Job 🏢
-**Current:** *Operating and maintenance existing pet-projects.*  
+**Current:** *Operating and maintenance existing hobby projects.*  
 **Previous:** *https://www.automiq.ru/*  
 
 ## How to reach me 📪
 [<img src="https://simpleicons.org/icons/vk.svg" alt='VK' height='50'>](https://vk.com/fazebook) [<img src="https://simpleicons.org/icons/gmail.svg" alt='line' height='50'>](mailto:anton.tiz.musin@gmail.com) 
+
+### Check more projects at my [GitHub org](https://github.com/Rainbow6-RUSSIA)  
