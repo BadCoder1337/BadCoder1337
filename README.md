@@ -1,7 +1,8 @@
 ### Hello 👋 I'm BadCoder1337 (a.k.a FaZebook)
 ###### *Integration Enthusiast*
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BadCoder1337" alt="BadCoder1337" /> </p>
-<!-- ![Menhera-chan Hello](https://i.pinimg.com/originals/03/1d/1c/031d1c30843683ff843a9fd52b5b5796.png) -->
+
+![BadCoder1337's github stats](https://github-readme-stats.vercel.app/api?username=BadCoder1337&count_private=true&hide=stars&show_icons=true)
+![BadCoder1337's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BadCoder1337&layout=compact)
 
 ## Techstack 🛠
 **Impressed of React full-stack by Next.js ⚡**  
