@@ -25,4 +25,6 @@
 ## How to reach me 📪
 [<img src="https://simpleicons.org/icons/vk.svg" alt='VK' height='50'>](https://vk.com/fazebook) [<img src="https://simpleicons.org/icons/gmail.svg" alt='line' height='50'>](mailto:anton.tiz.musin@gmail.com) 
 
-### Check more projects at my [GitHub org](https://github.com/Rainbow6-RUSSIA)  
+### Check more projects at my [GitHub org](https://github.com/Rainbow6-RUSSIA) 
+My best hardwork project for widespread use
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rainbow6-RUSSIA&repo=discord-gdocs-cms&show_owner=true)](https://github.com/Rainbow6-RUSSIA/discord-gdocs-cms)
