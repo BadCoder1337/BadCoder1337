@@ -1,7 +1,7 @@
 ### Hello 👋 I'm BadCoder1337 (a.k.a FaZebook)
 ###### *Integration Enthusiast*
 
-![BadCoder1337's github stats](https://github-readme-stats.vercel.app/api?username=BadCoder1337&count_private=true&hide=stars&show_icons=true)  
+![BadCoder1337's github stats](https://github-readme-stats.vercel.app/api?username=BadCoder1337&count_private=true&hide=stars&show_icons=true&include_all_commits=true)  
 ![BadCoder1337's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BadCoder1337&layout=compact)
 
 ## Techstack 🛠
