@@ -6,17 +6,16 @@
 
 ## Techstack 🛠
 **Impressed of React full-stack by Next.js ⚡**  
-**Front-end:** *TypeScript/JavaScript, SASS/styled-components, MobX*  
-**Back-end:** *TypeScript/JavaScript, Express.JS, PostgreSQL + TimescaleDB, REST*  
-**Tools:** *Linux, Docker, Spreadsheets*
+**Front-end:** *TypeScript+JS, SASS/styled-components, MobX+MST, react-query*  
+**Back-end:** *TypeScript+JS, Express.JS, PostgreSQL + TimescaleDB, REST*  
+**Tools:** *Linux, Docker, Spreadsheets, Git, collaborative solutions*
 
 ## Info ℹ️
 - 🔭 I’m currently rewriting legacy *Discord bots*
-- 🌱 I’m currently learning *Next.js with React and Mobx*
-- 🤔 Beginner in *CSS* and *web design*
+- 🌱 I’m currently using *Next.js with React and Mobx*
+- 🤔 OK in *CSS* and *web design*
 - 😄 Pronouns: *He/him*
 - ⚡ Credo: *I love creating something experimental and unexplored, rather than grinding ordinary things*
-- 🧠 I can use other C-like languages, but i have not enough experience with their toolset
 
 ## Job 🏢
 **Current:** *Operating and maintenance existing hobby projects.*  
