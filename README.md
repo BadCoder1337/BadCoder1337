@@ -16,7 +16,7 @@ First and most lovely crafted project in few iterations. Contains bots and websi
 **Repo:** [BadCoder1337/r6rutils](https://github.com/BadCoder1337/r6rutils)  
 **Stack of live iteration:** Node.js, TypeScript, discord.js, [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript), PostgreSQL, Lerna. Deployed with [flynn](https://github.com/flynn/flynn).  
 **Repo:** [Rainbow6-RUSSIA/rainbow6ru-backend](https://github.com/Rainbow6-RUSSIA/rainbow6ru-backend)  
-**Next iteration stack:** Node.js, TypeScript, discord.js, Prisma, PostgreSQL + TimescaleDB, Redis (queues and Pub/Sub for microservices), [Blitz.js](https://blitzjs.com), Yarn Workspaces. Deployed in Docker with [Caprover](https://caprover.com).  
+**Next iteration stack:** Node.js, TypeScript, discord.js, Prisma, PostgreSQL + TimescaleDB, Redis (queues and Pub/Sub for microservices), [Blitz.js](https://blitzjs.com), Yarn Workspaces. Deployed with GitHub Actions, Docker, [Caprover](https://caprover.com).  
 **Repo:** closed source
 ### **[Anticrash Warden](https://top.gg/bot/834827462721667112)**
 Automated media moderation. Detects malicious videos that could crash Discord client.  
@@ -26,7 +26,7 @@ Automated media moderation. Detects malicious videos that could crash Discord cl
 ## Other tools 🛠
 **Front-end:** OAuth, CSS Frameworks (Bootstrap, Tailwind), Electron  
 **Back-end:** Linux, Cloudflare, Google Workspace  
-**DevOps:** [Netdata](https://netdata.cloud), Git  
+**DevOps:** [Netdata](https://netdata.cloud), Git
 
 ## About me 💼
 - 🔭 Using _Node.js_ since I was _15 y.o._
