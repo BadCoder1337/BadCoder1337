@@ -11,7 +11,7 @@ A [Discohook](https://github.com/discohook/site) fork with collaborative feature
 **Stack:** TypeScript, [Next.js](https://nextjs.org), [Prisma](https://prisma.io), [styled-components](https://styled-components.com), [MST](https://mobx-state-tree.js.org), [mst-form](https://github.com/isprojects/mstform), Docker, [Convergence](https://convergence.io).  
 **Repo:** [Rainbow6-RUSSIA/discord-gdocs-cms](https://github.com/Rainbow6-RUSSIA/discord-gdocs-cms)
 ### **[Rainbow6-RUSSIA](https://discord.gg/r6ru) services**
-First and most lovely crafted project in few iterations. Contains bots and websites for automating and organizing a Discord community with 50k members. 3rd-party API integration, matchmaking, support system, etc. Now it's under full reconstruction.  
+First and most lovely crafted project in few iterations. Contains bots and websites for automating and organizing a Discord community with 50k members. 3rd-party API integration, matchmaking, ticket system, etc.  
 **Stack of deprecated iteration:** Node.js, [discord.js](https://discord.js.org), Redis (lists and KV store), express + EJS. Deployed in Heroku.  
 **Repo:** [BadCoder1337/r6rutils](https://github.com/BadCoder1337/r6rutils)  
 **Stack of live iteration:** Node.js, TypeScript, discord.js, [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript), PostgreSQL, Lerna. Deployed with [flynn](https://github.com/flynn/flynn).  
@@ -39,6 +39,6 @@ Automated media moderation. Detects malicious videos that could crash Discord cl
 **Previous:** _[automiq.ru](https://automiq.ru)_
 
 ## How to reach me 📪
-[<img src="https://simpleicons.org/icons/vk.svg" alt='VK' height='50'>](https://vk.com/fazebook) [<img src="https://simpleicons.org/icons/gmail.svg" alt='line' height='50'>](mailto:fazebook@rainbow6.ru)
+[<img src="https://simpleicons.org/icons/telegram.svg" alt='Telegram' height='50'>](https://t.me/fazebook_x) [<img src="https://simpleicons.org/icons/gmail.svg" alt='line' height='50'>](mailto:fazebook@rainbow6.ru)
 
 ### Also check my [organization](https://github.com/Rainbow6-RUSSIA)
