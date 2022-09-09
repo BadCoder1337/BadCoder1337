@@ -12,11 +12,11 @@ A [Discohook](https://github.com/discohook/site) fork with collaborative feature
 **Repo:** [Rainbow6-RUSSIA/discord-gdocs-cms](https://github.com/Rainbow6-RUSSIA/discord-gdocs-cms)
 ### **[Rainbow6-RUSSIA](https://discord.gg/r6ru) services**
 First and most lovely crafted project in few iterations. Contains bots and websites for automating and organizing a Discord community with 50k members. 3rd-party API integration, matchmaking, ticket system, etc.  
-**Stack of deprecated iteration:** Node.js, [discord.js](https://discord.js.org), Redis (lists and KV store), express + EJS. Deployed in Heroku.  
+**1st iteration:** Node.js, [discord.js](https://discord.js.org), Redis (lists and KV store), express + EJS. Deployed in Heroku.  
 **Repo:** [BadCoder1337/r6rutils](https://github.com/BadCoder1337/r6rutils)  
-**Stack of live iteration:** Node.js, TypeScript, discord.js, [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript), PostgreSQL, Lerna. Deployed with [flynn](https://github.com/flynn/flynn).  
+**2nd iteration:** Node.js, TypeScript, discord.js, [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript), PostgreSQL, Lerna. Deployed with [flynn](https://github.com/flynn/flynn).  
 **Repo:** [Rainbow6-RUSSIA/rainbow6ru-backend](https://github.com/Rainbow6-RUSSIA/rainbow6ru-backend)  
-**Next iteration stack:** Node.js, TypeScript, discord.js, Prisma, PostgreSQL + TimescaleDB, Redis (queues and Pub/Sub for microservices), [Blitz.js](https://blitzjs.com), Yarn Workspaces. Deployed with GitHub Actions, Docker, [Caprover](https://caprover.com).  
+**3rd iteration (live):** Node.js, TypeScript, discord.js, Prisma, PostgreSQL, Redis (queues), [Blitz.js](https://blitzjs.com), Yarn Workspaces. Deployed with GitHub Actions, Docker, [Caprover](https://caprover.com).  
 **Repo:** closed source
 ### **[Anticrash Warden](https://top.gg/bot/834827462721667112)**
 Automated media moderation. Detects malicious videos that could crash Discord client.  
