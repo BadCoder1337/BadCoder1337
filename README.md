@@ -35,8 +35,7 @@ Automated media moderation. Detects malicious videos that could crash Discord cl
 - ⚡ Credo: _I love creating something experimental and unexplored, rather than grinding ordinary things_
 
 ## Job 🏢
-**Current:** vacant  
-**Previous:** _[automiq.ru](https://automiq.ru)_
+[LinkedIn](https://linkedin.com/in/badcoder1337)
 
 ## How to reach me 📪
 [<img src="https://simpleicons.org/icons/telegram.svg" alt='Telegram' height='50'>](https://t.me/fazebook_x) [<img src="https://simpleicons.org/icons/gmail.svg" alt='line' height='50'>](mailto:fazebook@rainbow6.ru)
