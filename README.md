@@ -28,16 +28,8 @@ Automated media moderation. Detects malicious videos that could crash Discord cl
 **Back-end:** Linux, Cloudflare, Google Workspace  
 **DevOps:** [Netdata](https://netdata.cloud), Git
 
-## About me 💼
-- 🔭 Using _Node.js_ since I was _15 y.o._
-- 🤔 OK in _CSS_ and _web design_
-- 😄 Pronouns: _He/him_
-- ⚡ Credo: _I love creating something experimental and unexplored, rather than grinding ordinary things_
-
 ## Job 🏢
 [LinkedIn](https://linkedin.com/in/badcoder1337)
 
 ## How to reach me 📪
-[<img src="https://simpleicons.org/icons/telegram.svg" alt='Telegram' height='50'>](https://t.me/fazebook_x) [<img src="https://simpleicons.org/icons/gmail.svg" alt='line' height='50'>](mailto:fazebook@rainbow6.ru)
-
-### Also check my [organization](https://github.com/Rainbow6-RUSSIA)
+[<img src="https://simpleicons.org/icons/telegram.svg" alt='Telegram' height='50'>](https://t.me/fazebook_x)
