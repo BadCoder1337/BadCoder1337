@@ -1,9 +1,10 @@
-<img src="https://avatars.githubusercontent.com/u/16510197?v=4" align="left" width="200px"/>
-
-# I'm Musin Anton
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/16510197?v=4" align="center" width="200px"/>
+</p>
+<h1 align="center"> I'm Musin Anton</h1>
+<p align="center">
 A Senior React Frontend Developer
-
-<br clear="left"/>
+</p>
 
 ## Work experience
 
@@ -17,6 +18,8 @@ As a lead, I have:
 * Conducted code reviews and technical interviews.
 * Developed and implemented a methodology for assessing the skills and grading personnel.
 * Additionally, I have created an internal React training course.
+
+---
 
 #### Uspect, Nizhny Novgorod
 August 2022 — till now
@@ -48,6 +51,8 @@ I have worked on various products, outsourcing, and outstaff projects as a front
   * Description: A service to automate the manual work of an entire cadastral engineering department commissioned by a large Russian cadastre company.
   * Stack: TypeScript, React, redux-toolkit, rtk-query, react-hook-form, WebSockets, MUI.
   * Tasks: Development of a visual editor for creating vector drawing using canvas elements, backend processing, and generation of package documents for an object in accordance with GOST. Integration of Yandex Maps API, Mapbox API, Rosreestr, Gosuslugi.
+ 
+---
 
 #### Rainbow6-RUSSIA, Remote
 February 2018 — August 2022
